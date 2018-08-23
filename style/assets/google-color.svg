@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>7964BD03-4936-4BD1-B423-2A615A2E7C68</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-7.5%" y="-33.0%" width="115.0%" height="186.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-188.000000, -381.000000)">
+            <g id="Body" transform="translate(200.000000, 260.000000)">
+                <g id="Button" filter="url(#filter-1)" transform="translate(0.000000, 128.000000)">
+                    <g id="google-color">
+                        <path d="M4,0 L50,0 L50,50 L4,50 C1.790861,50 2.705415e-16,48.209139 0,46 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                        <path d="M19.1818182,25 C19.1818182,24.3648889 19.2895454,23.756 19.4818182,23.1848889 L16.1163636,20.6684445 C15.4604545,21.9724445 15.0909091,23.4417778 15.0909091,25 C15.0909091,26.5568889 15.46,28.0253333 16.115,29.3284445 L19.4786364,26.8071111 C19.2881818,26.2386667 19.1818182,25.632 19.1818182,25" id="Fill-1" fill="#FBBC05" fill-rule="nonzero"></path>
+                        <path d="M25.0909091,19.2222222 C26.5,19.2222222 27.7727273,19.7111111 28.7727273,20.5111111 L31.6818182,17.6666667 C29.9090909,16.1555556 27.6363636,15.2222222 25.0909091,15.2222222 C21.1390909,15.2222222 17.7427273,17.4351111 16.1163636,20.6684445 L19.4818182,23.1848889 C20.2572727,20.88 22.4677273,19.2222222 25.0909091,19.2222222" id="Fill-2" fill="#EB4335" fill-rule="nonzero"></path>
+                        <path d="M25.0909091,30.7777778 C22.4677273,30.7777778 20.2572727,29.12 19.4818182,26.8151111 L16.1163636,29.3311111 C17.7427273,32.5648889 21.1390909,34.7777778 25.0909091,34.7777778 C27.53,34.7777778 29.8586364,33.9297778 31.6063636,32.3408889 L28.4118182,29.9226667 C27.5104546,30.4786667 26.3754546,30.7777778 25.0909091,30.7777778" id="Fill-3" fill="#34A853" fill-rule="nonzero"></path>
+                        <path d="M34.6363636,25 C34.6363636,24.4222222 34.5454546,23.8 34.4090909,23.2222222 L25.0909091,23.2222222 L25.0909091,27 L30.4545454,27 C30.1863636,28.288 29.4563636,29.2782222 28.4118182,29.9226667 L31.6063636,32.3408889 C33.4422727,30.6724445 34.6363636,28.1871111 34.6363636,25" id="Fill-4" fill="#4285F4" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

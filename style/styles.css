@@ -1,0 +1,79 @@
+.rectangle {
+    height: 826px;
+    width: 1440px;
+    background: linear-gradient(135deg, #3359DB 0%, #6487FF 100%);
+    margin: 0;
+}
+
+.logo {
+	height: 31px;
+	width: 69px;
+	color: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 500;
+	letter-spacing: 0.48px;
+    line-height: 31px;
+    margin-top: 43px;
+    margin-left: 100px;
+    margin-right: 31px;
+    text-align: left;
+}
+
+.description {
+    height: 88px;
+    width: 448px;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 44px;
+    margin-top: 260px;
+    margin-left: 200px;
+}
+
+.login-btn {
+    height: 50px;
+    width: 274px;
+    box-shadow: 0 5px 12px 0 rgba(0,0,0,0.2);
+    margin-top: 44px;
+    margin-left: 200px;
+}
+
+.google-logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 4px 0 0 4px;
+    background-color: #FFFFFF;
+    padding: 0;
+}
+
+.google-svg {
+    margin-top: -7px;
+    margin-left: -12px;
+}
+
+.login-txt {
+	height: 50px;
+	width: 224px;
+	border-radius: 0 4px 4px 0;
+    background-color: #FFFFFF;
+    margin-top: -50px;
+    margin-left: 50px;
+    color: #3359DB;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 850;
+    line-height: 50px;
+    text-align: center;
+}
+
+.laptop-graphic {
+    margin-left: 655px;
+    margin-top: -400px;
+}
+
+.macbook {
+	height: 574px;
+    width: 785px;
+}
